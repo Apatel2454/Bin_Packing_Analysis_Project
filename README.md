@@ -46,4 +46,5 @@ The algorithms are evaluated based on:
 - Scalability with input size  
 - Consistency across datasets  
 
-## Project Structure
+## How to run
+  
