@@ -7,7 +7,8 @@ The goal is to evaluate how different algorithmic approaches perform in terms of
 
 Contributors: 
   - [Alex Patel](https://github.com/Apatel2454) 
-  - [Dante Haman](https://github.com/dhaman43) 
+  - [Dante Haman](https://github.com/dhaman43)
+  - [Brody Walker](https://github.com/brodywalker4) 
 ## Objectives
 - Implement multiple bin packing algorithms in C++  
 - Compare their efficiency and accuracy  
