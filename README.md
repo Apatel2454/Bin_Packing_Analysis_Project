@@ -5,6 +5,9 @@ This project focuses on analyzing and comparing the performance of multiple algo
 
 The goal is to evaluate how different algorithmic approaches perform in terms of efficiency, solution quality, and computational cost when packing items of varying sizes into a limited number of bins.
 
+Contributors: 
+  -[Alex Patel](https://github.com/Apatel2454) 
+  -[Dante Haman](https://github.com/dhaman43) 
 ## Objectives
 - Implement multiple bin packing algorithms in C++  
 - Compare their efficiency and accuracy  
